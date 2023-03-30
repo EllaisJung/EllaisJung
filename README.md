@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### About Me
+
+🌱 I’m currently learning languages such as English,Spanish,Korean and Dutch. But I'm focus on English and Spanish because I really like those languages.
+
+So you'll find about my learning tools or maybe my handwriting hehe
+
 <!--
 **EllaisJung/EllaisJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
